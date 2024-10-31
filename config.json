@@ -1,4 +1,4 @@
 {
     "BACKEND_RDS_URL": "https://d30cz74ev2a2sv.cloudfront.net/test_connection/",
-    "BACKEND_REDIS_URL": "https://d1do54flo1qh4d.cloudfront.net//test_connection/"
+    "BACKEND_REDIS_URL": "https://d1do54flo1qh4d.cloudfront.net/test_connection/"
   }
