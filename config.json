@@ -1,5 +1,5 @@
 {
-    "BACKEND_RDS_URL": "http://ec2-user@ec2-3-214-144-47.compute-1.amazonaws.com:8000/test_connection/",
-    "BACKEND_REDIS_URL": "http://ec2-user@ec2-3-214-144-47.compute-1.amazonaws.com:8100/test_connection/"
+    "BACKEND_RDS_URL": "http://ec2-3-214-144-47.compute-1.amazonaws.com:8000/test_connection/",
+    "BACKEND_REDIS_URL": "http://ec2-3-214-144-47.compute-1.amazonaws.com:8100/test_connection/"
   }
   
